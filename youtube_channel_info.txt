@@ -2,6 +2,30 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
+Yahoo Finance | News | | https://www.youtube.com/watch?v=nG0Kt1Xzk60
+
+Bloomberg Business News Live | News | | https://www.youtube.com/watch?v=iyOq8DhaMYw
+
+Bloomberg Global Financial Market News LIVE | News | | https://www.youtube.com/watch?v=dp8PhLsUcFE
+
+CNBC | News | | https://www.youtube.com/watch?v=9NyxcX3rhQs
+
+NBC News NOW | News | | https://www.youtube.com/watch?v=aRQsu3BmsK8
+
+ABC News Live | News | | https://www.youtube.com/watch?v=OOtxXPaQvoM
+
+LiveNOW from FOX | News | | https://www.youtube.com/watch?v=qoytj8mNq7s
+
+Sky News | News | | https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+DW News | News | | https://www.youtube.com/watch?v=pqabxBKzZ6M
+
+TVBS新闻 | News | | https://www.youtube.com/watch?v=YvdcZ_jpLXE
+
+中天新闻 | News | | https://www.youtube.com/watch?v=oIgbl7t0S_w
+
+东森新闻 | News | | https://www.youtube.com/watch?v=S5WOGu2HSes
+
 Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
 https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
 
