@@ -2,186 +2,210 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Yahoo Finance | News | |
+Yahoo Finance | News | https://yt3.ggpht.com/7jUHEz4UBLqvmtFQAthsHAU8d5yOVRtf6CO-t-XwuDReks2GJbJ_gcPZdWnFUhIrv26EGzWk=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=nG0Kt1Xzk60
 
-Bloomberg Business News Live | News | | 
+Bloomberg Business News Live | News | https://yt3.ggpht.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s88-c-k-c0x00ffffff-no-rj | 
 https://www.youtube.com/watch?v=iyOq8DhaMYw
 
-Bloomberg Global Financial Market News LIVE | News | | 
+Bloomberg Global Financial Market News LIVE | News | https://yt3.ggpht.com/QnXaC_YmVgrih83IPHmS_37TOJquPQm4ESeop_PTyvatdS6pJa4ynQ57K9NtD6xV9n41h7to6Bw=s48-c-k-c0x00ffffff-no-rj | 
 https://www.youtube.com/watch?v=dp8PhLsUcFE
 
-Schwab Network | News | |
+Schwab Network | News | https://yt3.ggpht.com/AL0I6-CM9asITyb_eLjO0roOib7tcoFfKg1660KZDYKCZ4M_qz4Fn_j8wb2nAoDIDPLY5gRON3M=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=BWhVz1ozr1o
 
-CNBC | News | |
+CNBC | News | https://yt3.ggpht.com/ytc/APkrFKbSMbYWQ5TLMPPDKBf_oJX6QHvatlPZkJt6YLpj9Oc=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=9NyxcX3rhQs
 
-NBC News NOW | News | |
+NBC News NOW | News | https://yt3.ggpht.com/ytc/APkrFKaY-uFR1B45sUcdhSFFA1hGiWrX1fMx5lHZ-NmrzV4=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=aRQsu3BmsK8
 
-ABC News Live | News | |
+ABC News Live | News | https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=OOtxXPaQvoM
 
-LiveNOW from FOX | News | |
+LiveNOW from FOX | News | https://yt3.ggpht.com/dF1ZRcwWOxfn3AysqfW-MMIod2jPfCfgFkMLYiQWGMOiELVA7-nWN7PaXnEv1RfVxRe5S9z36ow=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=qoytj8mNq7s
 
-Newsmax | News | |
-https://www.youtube.com/watch?v=2NUVDFC0pws
+Newsmax | News | https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=ebF8dngcDQI
 
-USA Today | News | |
+USA Today | News | https://yt3.ggpht.com/ytc/APkrFKbCr4pbXWDhim24d2JF54iO7nhpwksblBlOZFUIWus=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=vZYMwAm8sso
 
-CBS News | News | |
-https://www.youtube.com/watch?v=a416aougNh4
-
-"60 Minutes" Reports | News | |
+"60 Minutes" Reports | News | https://yt3.ggpht.com/6is8wo4LohoLQWpC_HeuxcLjIimGuzJqYIqP4KRdeI6jQx6hgfbKOyIEaIV4mGwrpwI1dC5Y=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=x3yaF3liehk
 
-News 12 New York | News | |
-https://www.youtube.com/watch?v=8t_yC-BpI1o
-
-CBS 2 News: Chicago | News | |
-https://www.youtube.com/watch?v=iPmZdiuGoME
-
-WBFF FOX45 Baltimore | News | |
-https://www.youtube.com/watch?v=txDb-Owvcq4
-
-WRAL North Carolina | News | |
-https://www.youtube.com/watch?v=D_dXUIfMEHE
-
-WPLG Local 10 News South Florida | News | |
-https://www.youtube.com/watch?v=8RjhiJ8Dzs4
-
-ABC 7 News SWFL | News | |
-https://www.youtube.com/watch?v=XObsOutMlh8
-
-NBC2 News | News | |
-https://www.youtube.com/watch?v=MJB6CUxvZcU
-
-Euronews | News | |
+Euronews | News | https://yt3.ggpht.com/t3slq37NYJRuP2UoEZDoPKyMClKyQULG8-j2DEfzL1XXcBvFpR6z6HD7rtc0wDn8Mqt0OtpU=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=pykpO5kQJ98
 
-Sky News | News | |
+Sky News | News | https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
-GBNews | News | |
+GBNews | News | https://yt3.ggpht.com/9QATDXAANCn4Z5pqMiRj54aYxsZza-nHbKGk6mmEfVfEPp5bsfwHXBzG8XIcJizrT4Ed67RY=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=8WX6YL9JnLw
 
-DW News | News | |
+DW News | News | https://yt3.ggpht.com/ytc/APkrFKbjkhiNpXncTV-z10iJXGALSRFdwS9RBH3BERLv9vQ=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=pqabxBKzZ6M
 
-France 24 | News | |
-https://www.youtube.com/watch?v=h3MuIUNCCzI
+France 24 | News | https://yt3.ggpht.com/ytc/APkrFKY0KuL5o7OWf2Epc43rELM5ADN9Zvz2z9DZ3H3vhg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=tkDUSYHoKxE
 
-ABC News Australia | News | |
-https://www.youtube.com/watch?v=vOTiJkg1voo
-
-NHK WORLD-JAPAN | News | |
+NHK WORLD-JAPAN | News | https://yt3.ggpht.com/ytc/APkrFKbNRGC39WBzvaKP6B2_TlwF7OEb1nF63ArViBu0RA=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
-Al Jazeera English | News | |
+Al Jazeera English | News | https://yt3.ggpht.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
 CNA  | News | https://yt3.googleusercontent.com/ytc/APkrFKZCco_7jujlLWP2xCc97sneeWJ3fEHTDqeCOqW78w=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=XWq5kBlakcQ
 
-TVBS新闻 | News | |
-https://www.youtube.com/watch?v=m_dhMSvUCIc
+News 12 New York | News | https://yt3.ggpht.com/ytc/APkrFKabEm3pEJAngegSuTA0Eip3P5CmANJwS3FA9Reg0g=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=16T9b25l6eQ
 
-TVBS News | News | |
-https://www.youtube.com/watch?v=2mCSYvcfhtc
+WBFF FOX45 Baltimore | News | https://yt3.googleusercontent.com/ytc/APkrFKYlvgs_sgONFxD6H7jcw0ihAigj47bYnIeGTJonvQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=txDb-Owvcq4
 
-TVBS选新闻 | News | |
-https://www.youtube.com/watch?v=YvdcZ_jpLXE
+WRAL North Carolina | News | https://yt3.ggpht.com/wzbbsyAO4PbvL0gembgQiInSWpzgW4DdZxlQBzK4p_UtJ-4rQimWO_iqRa2MlG0wMDhpgnqi=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=cxH9ItshHSI
 
-中天新闻 | News | |
-https://www.youtube.com/watch?v=oIgbl7t0S_w
+WPLG Local 10 News South Florida | News | https://yt3.ggpht.com/6AGUKj95cJTVBS5FKDg1UQF7ETsIK7jk9fOkMCgkZ6QfxHAZlYqlKUDYsNc_BDse18W3UZqRJJE=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=8RjhiJ8Dzs4
 
-东森新闻 | News | |
-https://www.youtube.com/watch?v=S5WOGu2HSes
+ABC 7 News SWFL | News | https://yt3.ggpht.com/ytc/APkrFKYMAgxR1t8YwX9_kSLvr-gCKu5ZyWosTfO8w-y4=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=eXZ4-qp16nI
 
-东森Live | News | |
-https://www.youtube.com/watch?v=E0zhe2gkXBs
+NBC2 News | News | https://yt3.ggpht.com/ytc/APkrFKaTIbDY65TRlB-zfg5Mu8WXbbpYFX7fxHpBbrtSHg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=MJB6CUxvZcU
 
-东森新闻世界日报 | News | |
-https://www.youtube.com/watch?v=Dn-LI8xzu7I
+CBS 2 News: Chicago | News | https://yt3.ggpht.com/tgDMCY8zYbkGbwBiUlfqtuN9JJ9SD9UMYEstWcspPtx_lS1S3-xBDvJ00-11izESpoNNumghfME=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=iPmZdiuGoME
 
-东森财经 | News | |
-https://www.youtube.com/watch?v=LbS-xQ67fos
+CBC News: The National | News | https://yt3.ggpht.com/ytc/APkrFKYxeZc3pBh_byPZ1WtsajP8NSClhynu9OF5B_0Yvg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=Yo5pUQsZyg8
 
-中视新闻 | News | |
-https://www.youtube.com/watch?v=TCnaIE_SAtM
+CBC News: Vancouver | News | https://yt3.ggpht.com/ytc/APkrFKYYjTWOyk4SGUD2Ck4XQZSeXdMoa0njIALaBTQTjw=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=rbmI__KssZ0
 
-台视新闻 | News | |
-https://www.youtube.com/watch?v=xL0ch83RAK8
+CBC Manitoba | News | https://yt3.ggpht.com/PQQWuoDm0KCCvJQIYewDXG6B6tr8ldlS_5wA8XIDllrMFSAx9R3WuxpBbY2mmxBgK904SnO6=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=33LVWEVumsg
 
-民视新闻 | News | |
-https://www.youtube.com/watch?v=ylYJSBUgaMA
+ABC News Australia | News | https://yt3.ggpht.com/ytc/APkrFKZNPK3Dh5kF7rShCGh0NhuMWJRiQpsVgsXHul1-Iw=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=vOTiJkg1voo
 
-公视新闻 | News | |
-https://www.youtube.com/watch?v=quwqlazU-c8
-
-三立新闻 | News | |
-https://www.youtube.com/watch?v=oZdzzvxTfUY
-
-镜新闻 | News | |
-https://www.youtube.com/watch?v=5n0y6b0Q25o
+CVM Television | News | https://yt3.ggpht.com/1Vt01LdgoE00W-HYejQv4eVnqA8MHOKIYwsnLTqVi18PZq0o5WoYWKD603vhphXg3omZSfwL3g=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=p3vGYKLWdlA
 
 TaiwanPlus | News | https://yt3.ggpht.com/6bPR4HEN_91wKrD7k0dfnRWO5G6XPZdHKWWhRbzyT-nERWPTm-LtpqF_TYhwuf5BqMBveum5sdQ=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=dZp87qnWelE
 
-寰宇新闻台湾台 | News | |
+TVBS新闻 | News | https://yt3.ggpht.com/ytc/APkrFKbdpkK8JwUolY71QVYd0Wpywshx9FzcakIQmsx2EA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+TVBS News | News | https://yt3.ggpht.com/ytc/APkrFKbdpkK8JwUolY71QVYd0Wpywshx9FzcakIQmsx2EA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+
+TVBS选新闻 | News | https://yt3.ggpht.com/ytc/APkrFKbEGL1_AsWF2nHfiXSy-ve3P3d3rmQUQDj8K5z70Q=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+
+中天新闻 | News | https://yt3.ggpht.com/ytc/APkrFKaQyJwdcRtSMijlhIg7oOeHn8tcqCgPUsYSsPTk7A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+
+中天新闻2台 | News | https://yt3.ggpht.com/ytc/APkrFKaQyJwdcRtSMijlhIg7oOeHn8tcqCgPUsYSsPTk7A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+
+东森新闻 | News | https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png |
+https://www.youtube.com/watch?v=S5WOGu2HSes
+
+东森Live | News | https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv4.jpg |
+https://www.youtube.com/watch?v=E0zhe2gkXBs
+
+东森新闻世界日报 | News | https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv4.jpg |
+https://www.youtube.com/watch?v=Dn-LI8xzu7I
+
+东森财经 | News | https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png |
+https://www.youtube.com/watch?v=LbS-xQ67fos
+
+中视新闻 | News | https://www.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png |
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+台视新闻 | News | https://yt3.ggpht.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=xL0ch83RAK8
+
+民视新闻 | News | https://cdn.ftvnews.com.tw/client/images/logo-w.png |
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+
+公视新闻 | News | https://yt3.ggpht.com/ytc/APkrFKYMkLDxU470R_aFP1pnb5TPhE4DcirZBMF9ECcB=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=quwqlazU-c8
+
+三立新闻 | News | https://yt3.googleusercontent.com/p1CDNiM5ogXNmmBghBq_e04dYtuk561EedUiX1D3AWqUT2JjpxGP_eYhohWwv9QIl9oGiOHpNl4=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+
+镜新闻 | News | https://yt3.ggpht.com/VZn4d9ZIvAj2ZTdGw8dU9IPkDOvbofQYxSd61nfO-qm14RKRpxJMFbe0Ndhbb_-sjAMV50yURA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+寰宇新闻台湾台 | News | https://yt3.googleusercontent.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=UcTIv4ZaE5Y
 
-寰宇新闻 | News | |
+寰宇新闻 | News | https://yt3.googleusercontent.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=6IquAgfvYmc
 
-寰宇新闻 World News | News | |
+寰宇新闻 World News | News | https://yt3.googleusercontent.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=V8ue1aoEOEQ
 
-凤凰卫视资讯台 | News | |
+凤凰卫视资讯台 | News | https://yt3.ggpht.com/xRzFRWvnoq0_LhQKQCwUs8s0ih6PSMoiC_salKUAIFPdUyln2Bnfcvvmz4hemA83zfQHNQvlasU=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=Q4J1ONrB3Do
 
-CGTN Europe News | News | |
+CGTN Europe News | News | https://yt3.ggpht.com/ytc/APkrFKaDZq115iCjPaqu4ibhDUEyHP3QxwTI2sJrOlyvkQU=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=UP5z9dRC6RU
 
-CCTV-4 | News | |
+CCTV-4 | News | https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv4.jpg |
 https://www.youtube.com/watch?v=9sE12tg3CmA
 
-新唐人亚太台 | News | |
+新唐人亚太台 | News | https://yt3.ggpht.com/ytc/APkrFKa-OQv_047tAGtEQt0UoGLIMYxmFweknIdSg0xEZA=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=WIhgU_mc05A
 
-CNBC TV18 | News | |
+CNBC TV18 | News | https://yt3.ggpht.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=1_Ih0JYmkjI
 
-WION LIVE | News | |
+WION LIVE | News | https://yt3.ggpht.com/ytc/APkrFKaa1ioKuDqWfvsTsZIYMZqLH0knHdIYJPtiWBGj1g=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=lmZRiDMK3OU
 
-华语经典 | Music | |
+华语经典 | Music | https://yt3.ggpht.com/ytc/APkrFKYDyW1vxx9PsVL62gP3O6re54mfK823XceYVyCevw=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=ZxluW--lZpk
 
-Night Jazz New York | Music | |
+Night Jazz New York | Music | https://yt3.ggpht.com/2VNg5FbaQ_wvfpgcTFKVERneeqqq4y1dnTvAOlFnLBQgFe-N7Py5_awkW8bK9xxENnP-_dvxfTM=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=aixaT5NjGo8
 
-Paris Night Jazz | Music | |
+Paris Night Jazz | Music | https://yt3.ggpht.com/2VNg5FbaQ_wvfpgcTFKVERneeqqq4y1dnTvAOlFnLBQgFe-N7Py5_awkW8bK9xxENnP-_dvxfTM=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=B2Pzo8ydBFc
 
-1905 Movie Theater | Movie | |
+St. Mark's Basin | Music | https://yt3.ggpht.com/ytc/APkrFKZqGdr1CITOCFyaTWutQfh0Qvoqg65lGP-WWUQ-0A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=dFBRpHHwQeg
+
+Grand Canal in Live Streaming from Ca' Angeli | Music | https://yt3.ggpht.com/ytc/APkrFKZqGdr1CITOCFyaTWutQfh0Qvoqg65lGP-WWUQ-0A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=P393gTj527k
+
+Rialto Bridge in Live Streaming from Palazzo Bembo | Music | https://yt3.ggpht.com/ytc/APkrFKZqGdr1CITOCFyaTWutQfh0Qvoqg65lGP-WWUQ-0A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=K_Vg94nBiaY
+
+Live Webcam around the World | Music | https://yt3.ggpht.com/ytc/APkrFKZqGdr1CITOCFyaTWutQfh0Qvoqg65lGP-WWUQ-0A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=8KGXSjtS5pk
+
+1905 Movie Theater | Movie | https://yt3.googleusercontent.com/ytc/APkrFKYQkCxwW9sahCSUsbg_3Mk7V_Zw4awvd31YWaQ9LA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=E1XbT2ssE5w
 
-甄嬛传 | Movie | |
+甄嬛传 | Movie | https://yt3.ggpht.com/5oYw3Ie3p9XEtRrUNCFRJF2XNdvx_mm5IHpJ_RSvL8Ap602J60Xzm-MmLjON6jzWsRYvS36uijk=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=iLe6mkVSsKU
 
-National Geographic: Secrets of the Elephants FULL SEASON | Documentary | |
-https://www.youtube.com/watch?v=gKDjesLozm4
+National Geographic: Cocaine, Contraband, and Cartel Money: To Catch a Smuggler | Documentary | https://yt3.ggpht.com/13FpK4FfJb_I-aTMNRQTmaxLO2vjEi_NzWm1KxOzr-vjYLX7QmfHwn6XC3PfEf4Oay5WjP0CXw=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=gsA3-3_Cl8s
 
-Nat Geo WILD: SHARKFEST IS BACK | Documentary | |
+Nat Geo WILD: SHARKFEST IS BACK | Documentary | https://yt3.ggpht.com/ytc/APkrFKYumGr54VqQryV2K6gfGULpTJR3z4AauFbnkEjWMg=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=lFPG2B7hJs0
 
-Nat Geo WILD: Enter the Savage Kingdom: Ultimate Predators | Documentary | |
+Nat Geo WILD: Enter the Savage Kingdom: Ultimate Predators | Documentary | https://yt3.ggpht.com/ytc/APkrFKYumGr54VqQryV2K6gfGULpTJR3z4AauFbnkEjWMg=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=XZ7BWbmvi94
 
-Discovery UK: Moonshiners | Documentary | |
-https://www.youtube.com/watch?v=8o1MmHMGi1U
+Discovery UK: Gold Rush | Documentary | https://yt3.googleusercontent.com/mFSCqiot6mjEbniR-uqMGnRcekR4BbU3gg5O5_qb9KUlZlVlXXnSwM5ngs3dzuWpEt65lvGJzA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=Ji6pSbR-95Q
 
